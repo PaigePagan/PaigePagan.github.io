@@ -15,3 +15,6 @@ This infographic shows that in 2016, a total of 31 hate crime incidents occured 
 ## Number of Hate Crime Incidents Against Disability
 ![Hate crimes 3](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Infograph3.png?raw=true)
 This infographic shows that in 2016, a total of 70 hate crime incidents occured against disability. People who suffer from mental illness experienced majority of these hate crimes, specifically 63%, while the rest of the hate crimes were experienced by people who suffer from physical disability at 37%. Here, we see the inequality and injustice the disabled undergo. Data retrieved from [FBI: Uniform Crime Reporting.](https://ucr.fbi.gov/hate-crime/2016/tables/table-1)
+## 2016 Olympics in Rio
+![Rio](<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>)
+This timeline shows images and a video that decribe the events of the 2016 Summer Olympics in Rio, Brazil.
