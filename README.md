@@ -16,7 +16,7 @@ This infographic shows that in 2016, a total of 31 hate crime incidents occured 
 ![Hate crimes 3](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Infograph3.png?raw=true)
 This infographic shows that in 2016, a total of 70 hate crime incidents occured against disability. People who suffer from mental illness experienced majority of these hate crimes, specifically 63%, while the rest of the hate crimes were experienced by people who suffer from physical disability at 37%. Here, we see the inequality and injustice the disabled undergo. Data retrieved from [FBI: Uniform Crime Reporting.](https://ucr.fbi.gov/hate-crime/2016/tables/table-1)
 ## 2016 Olympics in Rio
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ukv5FreoPHOyo4ubz7oE6OmVrS-Dvs6_5yxWN4h14DY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aqKt5UkWRRdhjWC8jjcLEy0n8O8RAsqsIID2Ab1cJQo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 This timeline shows images and a video that decribe the events of the 2016 Summer Olympics in Rio, Brazil.
 ## The History and Progress of Women's Rights in the Islamic World 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1f5UO5LsjbNBVpSHzhzxxKiEccPgLQvavOfKFb_yf7Zw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
