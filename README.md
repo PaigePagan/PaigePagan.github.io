@@ -24,3 +24,6 @@ This timeline shows how women's rights slowly began and evolved in Saudi Arabia,
 ## Percentage of Lehigh's Undergraduate Enrollment in Different Colleges
 ![Percent](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Percent.png?raw=true)
 This horizontal bar chart shows what percentage of Lehigh undergraduate students enroll in different colleges. Data retrieved from [Lehigh University Office of Institutional Research](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf)
+## Changes in Lehigh University's Percentage of Undergraduate Enrollment Per College
+![Enrollment](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Enrollment(1).png?raw=true)
+This line graph shows the change in the percenatge of Lehigh's undergraduate enrollment in different colleges over the past ten years. The three colleges the graph focuses on is Arts & Sciences, Business, and Engineering. While all the percentages for each college have fluctuated, Arts & Sciences traditionally had the greatest number of undergraduate enrollment and as time progressed, more engineering students enrolled while enrollment in the business college continues to be the least amount.
