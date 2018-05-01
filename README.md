@@ -3,6 +3,9 @@
 Hi, my name is Paige Pagan! I'm a junior at Lehigh University double-majoring in Journalism and English with a minor in Creative Writing. I will be using this page for all of my data visualization projects. 
 For my past digital portfolio, please check my [Tumblr page.](https://www.tumblr.com/blog/plp219)
 ![This is me atop Masada.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/IMG_3963.JPG?raw=true)
+## About Me Comic Strip
+Here's a comic to introduce myself and my github page. Produced using [Pixton.](https://www.pixton.com/)
+![My Comic Strip.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Screen%20Shot%202018-04-30%20at%208.01.13%20PM.png?raw=true)
 ## Percentage of Lehigh's Undergraduate Enrollment in Different Colleges
 ![Percentages](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Lehigh%20Stat%20Infographic.png?raw=true)
 With a total undergraduate enrollment of around 5,075 students a year, Lehigh University has students who come from all different types of backgrounds and have various interests. With six different types of colleges, there's different amounts of students that go into each. This infographic shows what percentage of Lehigh students are in each of the six colleges. Data retrieved from [Lehigh University Office of Institutional Research.](http://www.lehigh.edu/~oir/profiles/profile.htm)
