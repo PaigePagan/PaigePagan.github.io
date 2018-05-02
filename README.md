@@ -7,7 +7,7 @@ For my past digital portfolio, please check my [Tumblr page.](https://www.tumblr
 Here's a comic to introduce myself and my github page. Produced using [Pixton.](https://www.pixton.com/)
 ![My Comic Strip.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Screen%20Shot%202018-04-30%20at%208.01.13%20PM.png?raw=true)
 ## Number of Hate Crime Incidents Against Sexuality
-![Hate Crimes 1 (https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Number%20of%20Hate%20Crime%20Incidents%20Against%20People%20of%20Different%20Sexualities.png?raw=true)
+![Hate Crimes 1](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Number%20of%20Hate%20Crime%20Incidents%20Against%20People%20of%20Different%20Sexualities.png?raw=true) 
 This infographic shows that in 2016, a total of 1,076 hate crime incidents occured against sexuality. Homosexual males experienced majority of these hate crimes, specifically 63%, while heterosexual hate crimes stood at the lowest, 2%. Here, we see the inequality and injustice the LGBTQ+ community endures. Data retrieved from [FBI: Uniform Crime Reporting.](https://ucr.fbi.gov/hate-crime/2016/tables/table-1)
 ## Number of Hate Crime Incidents Against Gender
 ![Hate Crimes 2](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Number%20of%20Hate%20Crime%20Incidents%20Against%20People%20of%20Different%20Sexualities%20(1).png?raw=true)
