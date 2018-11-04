@@ -4,7 +4,7 @@ Hi, my name is Paige Pagan! I'm a senior at Lehigh University double-majoring in
 For my past digital portfolio, please check my [Tumblr page.](https://www.tumblr.com/blog/plp219)
 ![This is me atop Masada.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/IMG_3963.JPG?raw=true)
 ## About Me Comic Strip
-Here's a comic to introduce myself and my github page. Produced using [Pixton.](https://www.pixton.com/)
+Here's a comic to introduce myself and my github page and and explain why I chose to focus on the theme of inequality in my stories. Produced using [Pixton.](https://www.pixton.com/)
 ![My Comic Strip.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Screen%20Shot%202018-04-30%20at%208.01.13%20PM.png?raw=true)
 ## Number of Hate Crime Incidents Against Sexuality
 ![Hate Crimes 1](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/Number%20of%20Hate%20Crime%20Incidents%20Against%20People%20of%20Different%20Sexualities.png?raw=true) 
