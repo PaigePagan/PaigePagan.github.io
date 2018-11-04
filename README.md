@@ -1,7 +1,6 @@
 # PaigePagan.github.io
 ## About Me
 Hi, my name is Paige Pagan! I'm a senior at Lehigh University double-majoring in Journalism and English with a minor in Creative Writing. I will be using this page for all of my data visualization projects. 
-For my past digital portfolio, please check my [Tumblr page.](https://www.tumblr.com/blog/plp219)
 ![This is me atop Masada.](https://github.com/PaigePagan/PaigePagan.github.io/blob/master/IMG_3963.JPG?raw=true)
 ## About Me Comic Strip
 Here's a comic to introduce myself and my github page and and explain why I chose to focus on the theme of inequality in my stories. Produced using [Pixton.](https://www.pixton.com/)
